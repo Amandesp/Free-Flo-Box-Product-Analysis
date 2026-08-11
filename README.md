@@ -1,3 +1,4 @@
+<img width="2560" height="1381" alt="Screenshot 2026-08-11 at 3 28 56 PM" src="https://github.com/user-attachments/assets/eb86400c-5557-48dc-a50f-fa168d12b341" />
 # Free Flo Box Product Usage Analysis
 
 ## Executive Summary:
@@ -11,8 +12,7 @@ The analysis shows that product usage varies significantly between the two pantr
 
 ## Dashboard
 
-<img width="1440" height="795" alt="Screenshot 2026-08-11 at 1 31 45 PM" src="https://github.com/user-attachments/assets/77194359-cc9a-4781-86a8-4c13374c8ac4" />
-
+<img width="2560" height="1381" alt="Screenshot 2026-08-11 at 3 28 56 PM" src="https://github.com/user-attachments/assets/2c164ac8-5319-4613-9e25-ac3f35f6ddbc" />
 
 
 ### Business Problem:
