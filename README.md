@@ -9,6 +9,12 @@ Using Google Sheets/Excel and Tableau, I analyzed product utilization data from 
 The analysis shows that product usage varies significantly between the two pantry locations. St. Anne's Hill has a much higher usage of tampons, while South Park has a much higher usage of reusable underwear. These differences provide insight into the types of products being utilized at each location.
 
 
+## Dashboard
+
+![Free Flo Box Product Usage Dashboard]<img width="1440" height="795" alt="Screenshot 2026-08-11 at 1 31 45 PM" src="https://github.com/user-attachments/assets/77194359-cc9a-4781-86a8-4c13374c8ac4" />
+
+
+
 ### Business Problem:
 
 Free Flo Box tracks the number of menstrual products utilized at its community pantries, but the raw data can be difficult to understand without visualization.
