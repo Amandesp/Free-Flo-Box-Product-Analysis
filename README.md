@@ -102,6 +102,6 @@ Product utilization should also not automatically be interpreted as the number o
 
 [Free Flo Box Google Sheets Data](https://docs.google.com/spreadsheets/d/1MN62AW2BA7LJiuEXMJSHSPuuSphuTeUwToL3LCyqUcw/edit?usp=sharing)
 
-### Tableau Dashboard:
+### Interactive Tableau Dashboard:
 
-[View the Interactive Tableau Dashboard]([YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/Group6FreeFloBoxnew/Dashboard7?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View the Interactive Tableau Dashboard](https://public.tableau.com/views/Group6FreeFloBoxnew/Dashboard7?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
