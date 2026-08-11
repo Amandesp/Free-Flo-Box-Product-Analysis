@@ -11,7 +11,7 @@ The analysis shows that product usage varies significantly between the two pantr
 
 ## Dashboard
 
-![Free Flo Box Product Usage Dashboard]<img width="1440" height="795" alt="Screenshot 2026-08-11 at 1 31 45 PM" src="https://github.com/user-attachments/assets/77194359-cc9a-4781-86a8-4c13374c8ac4" />
+<img width="1440" height="795" alt="Screenshot 2026-08-11 at 1 31 45 PM" src="https://github.com/user-attachments/assets/77194359-cc9a-4781-86a8-4c13374c8ac4" />
 
 
 
@@ -110,4 +110,4 @@ Product utilization should also not automatically be interpreted as the number o
 
 ### Interactive Tableau Dashboard:
 
-[View the Interactive Tableau Dashboard](https://public.tableau.com/views/Group6FreeFloBoxnew/Dashboard7?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/FreeFloBoxAnalysis/Dashboard7?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
+[View the Interactive Tableau Dashboard](https://public.tableau.com/views/Group6FreeFloBoxnew/Dashboard7?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/FreeFloBoxAnalysis/Dashboard7?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ](https://public.tableau.com/app/profile/amandeep.singh8433/viz/FreeFloBoxAnalysis/Dashboard7 )](https://public.tableau.com/app/profile/amandeep.singh8433/viz/FreeFloBoxAnalysis/Dashboard7 ) 
