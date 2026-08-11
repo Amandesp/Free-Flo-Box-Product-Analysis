@@ -1,4 +1,3 @@
-<img width="2560" height="1381" alt="Screenshot 2026-08-11 at 3 28 56 PM" src="https://github.com/user-attachments/assets/eb86400c-5557-48dc-a50f-fa168d12b341" />
 # Free Flo Box Product Usage Analysis
 
 ## Executive Summary:
